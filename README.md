@@ -4,7 +4,7 @@ A simulation of a system design interview using Object-Oriented Programming (OOP
 
 ## UML Class Diagram
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b96b7d0a-d89c-4147-8ba8-5f72ddad36a4" />
+<img width="706" height="909" alt="image" src="https://github.com/user-attachments/assets/9cf3247d-153f-42a4-bb34-b0402d71b20f" />
 
 ## Code Implementation
 
